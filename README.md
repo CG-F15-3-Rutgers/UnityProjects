@@ -1,7 +1,7 @@
 #Group Name
 ######Unity Projects - CG Fall 2015 @ Rutgers
 ######By: *[Neil], [Ben], [Jordan], [Shahan]*
-Check out our website: [Group Name Website](http://sia.github.io/unity3d-doodles/ "Example Game!")
+Check out our website: [Group Name Website](http://sia.github.io/CGB1/ "Example Game!")
 
 ![alt text](teamLogo2.png)
 
