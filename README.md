@@ -3,7 +3,7 @@
 ######By: *[Neil], [Ben], [Jordan], [Shahan]*
 Check out our website: [Group Name Website](http://sia.github.io/unity3d-doodles/ "Example Game!")
 
-![alt text](teamLogo.png)
+![alt text](teamLogo2.png)
 
 ###B1: Navigation and Animation
 1. I am a fun project!
