@@ -1,9 +1,9 @@
 #Group Name
 ######Unity Projects - CG Fall 2015 @ Rutgers
-######By: *[Leader], [Member1], [Member2], [Member3]*
-Check out our website: [Group Name Website](https://www.google.com "Google's Homepage!")
+######By: *[Neil], [Ben], [Jordan], [Shahan]*
+Check out our website: [Group Name Website](http://sia.github.io/CGB1/ "Example Game!")
 
-![alt text](teamLogo.png)
+![alt text](teamLogo2.png)
 
 ###B1: Navigation and Animation
 1. I am a fun project!
