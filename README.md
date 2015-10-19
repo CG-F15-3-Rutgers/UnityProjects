@@ -1,4 +1,4 @@
-#Group Name
+#The Falcons
 ######Unity Projects - CG Fall 2015 @ Rutgers
 ######By: *[Neil], [Ben], [Jordan], [Shahan]*
 Check out our website: [Group Name Website](http://sia.github.io/CGB1/ "Example Game!")
