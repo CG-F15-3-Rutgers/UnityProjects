@@ -441,8 +441,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c81b28b892b78d4997e2f6fbfc58491, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  str: DONGUS
-  levelIndexToLoad: 0
+  str: DINGUS
+  levelIndexToLoad: 3
 --- !u!114 &973679165
 MonoBehaviour:
   m_ObjectHideFlags: 0
